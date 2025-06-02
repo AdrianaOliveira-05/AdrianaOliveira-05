@@ -5,6 +5,5 @@ My name is Adriana Oliveira. I currently live in Porto, Portugal.
 
 
 # Education
-📚 BCs in Bioinformatic - 2023/Today - Faculdade de Ciências da Universidade do Porto
-
-
+## Faculdade de Ciências, Universidade do Porto
+				2023 – Bachelor's Degree in Bioinformatics
